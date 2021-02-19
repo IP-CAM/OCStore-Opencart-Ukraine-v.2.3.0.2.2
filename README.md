@@ -1,53 +1,54 @@
-# ocStore Українська версія
+# ocStore Ukrainian version
 
-Цей репозиторій призначений для розробки адаптованої під український ринок версії ocStore
-В якому все локалізовано на українську мову і релізи цієї версії будуть завжди виходити після виходу основної збірки ocStore
+Tsey repository of features for the development of adapted pid Ukrainian market version of ocStore
+In which everything is localized to the Ukrainian language and the release of the version will be dependent on the visit to the main page of the ocStore
 
-Вихід цієї версії буде в декількох варіантах:
+View of the central version of the budget in decilkoh options:
 
-1. ocStore з передстановленою українською мовою
-2. ocStore з передстановленою українською і англійською мовою
-3. ocStore з передстановленою українською і російською мовою
-4. ocStore з передстановленою українською, англійською, російською мовою
+1.ocStore replaced by Ukrainian language
+2.ocStore changed to Ukrainian and English language
+3.ocStore s re-installed Ukrainian and Russian language
+4.ocStore changed to Ukrainian, English, Russian language
 
-## Короткий опис
+## Short description
 
-ocStore - це онлайн магазин, який заснований на базі OpenCart і має відкритий вихідний код. Дуже просте і надійне рішення для бажаючих створити власний онлайн бізнес за мінімальних витрат ..
+ocStore is an online store, which is based on OpenCart and can display the output code. Even simpler and more efficient solution for those who want to set up power online business for minimal vitrates.
 
-## Баг-трекер
+## Bug tracker
 
-Перш, ніж створити повідомлення про помилку, будь ласка, прочитайте інструкцію:
+Persh, please read the instructions below, please, read the instructions:
 
-1. Відвідайте [OpenCart форум] (https://opencartforum.com/), можливо що там, Ви знайдете рішення.
-2. Перевірте всі відкриті (і закриті) питання на [Баг-трекер GitHub] (https://github.com/myopencart/ocstore/issues).
-3. Якщо помилка пов'язана з CMS OpenCart, будь ласка, створіть звіт [на форумі] (https://opencartforum.com/forum/15-отчёты-об-ошибках/).
-4. ПРОЧИТАЙТЕ [весь список змін] (https://github.com/myopencart/ocStore-Ukraine/blob/ocStore2/changelog.md).
-5. Щоб знайти відповідь на Ваше запитання, використовуйте [пошук по форуму] (https://opencartforum.com/index.php?app=core&module=search).
-6. Будь ласка переконайтеся, що ця проблема (або помилка) не пов'язана з Вашим сервером.
+1. Visit the [OpenCart forum] (https://opencartforum.com/), you may be there, you know the solution.
+2. Pull all messages (and close) feeds to the [GitHub Bug Tracker] (https://github.com/myopencart/ocstore/issues).
+3. Yaksho pomilka is tied to the CMS OpenCart, whether weasel, open it [on the forum] (https://opencartforum.com/forum/15-reports-influences/).
+4. PLEASE READ [the entire list of changes] (https://github.com/myopencart/ocStore-Ukraine/blob/ocStore2/changelog.md).
+5. If you want to know about your power supply, you can pick up [flick on the forum] (https://opencartforum.com/index.php?app=core&module=search).
+6. Be a weasel perekonayte, what a problem (or a pity) is not tied to your server.
 
-Якщо у Вас з'явилися якісь додаткові питання, будь ласка, відвідайте наш [форум] (https://opencartforum.com/)
+As long as you have appeared as a supplementary food, be weasel, visit our [forum] (https://opencartforum.com/)
 
-**Важливе зауваження!**
-- Якщо Ваше повідомлення про помилку не пов'язанt з основним кодом OpenCart (наприклад, некоректно робота модуля або конфігурація Вашого сервера), то питання буде закритий без причини. З таких питань звертайтеся до автора доповнення, або скористайтеся розділом [платних послуг] (https://opencartforum.com/forum/22-услуги/) на форумі.
-- Якщо Ви хочете повідомити про серйозну загрозу безпеці в коді OpenCart, будь ласка, надішліть приватне повідомлення будь-якого з модераторів форуму, або, створіть тему в розділі [Питання безопасности](https://opencartforum.com/forum/41-вопросы-безопасности/).
-- Якщо у Вас є якісь нові ідеї або поради, скористайтеся відповідним розділом на форумі [Пропозиції та пожелания](https://opencartforum.com/forum/31-предложения-и-пожелания/).
+** More important than respect! **
+- If your case about the pardon is not tied to the main OpenCart code (for example, the module's robot is incorrect, or your server's configuration), then the power will be zakrytnya for no reason. From such food, go to the author of the supplement, or speed up the [paid services] (https://opencartforum.com/forum/22-services/) on the forum.
+- If you want to talk about a serious threat of safety in the OpenCart code, be a weasel, send a private message to any moderators in the forum, or open the topic in the [Security Nutrition] section (https://opencartforum.com/forum -security /).
+- If you є like new ideas or please, speed up the news on the forum [Proposals and wishes] (https://opencartforum.com/forum/31-proposals-andwishes/).
 
-## Релізи
+## Relizi
 
-Для отримання повідомлень про нові релізи, примітки адміністратора або повідомлення від групи OC Team, відкрийте на форумі [Новини та анонси] (https://opencartforum.com/forum/3-новости-и-анонсы/), і вгорі праворуч - натисніть на кнопку "Стежити за форумом".
+To discard the news about new releases, administrator's remarks or about seeing the OC Team groups, please go to the [News and Announcements] forum (https://opencartforum.com/forum/3-news--- announcements/), and tell the right-handed on the button "Stay behind the forum".
 
-## Установка і Оновлення
+## Installation and Update
 
-Будь ласка, прочитайте відповідний файл (install.txt / upgrade.txt) всередині архіву, або скористайтеся розділом на форумі [Установка, оновлення, настройка](https://opencartforum.com/forum/6-установка-обновление-настройка/).
+Be affectionate, read the above file (install.txt / upgrade.txt) in the middle of the archive, or just go to the forum [Install, update, configure] (https://opencartforum.com/forum/6-install-update-configuration/) ...
 
-## Ліцензія
+## License
 
-[GNU General Public License версії 3 (GPLv3)] (https://github.com/myopencart/ocStore/blob/ocStore2/license.txt)
+[GNU General Public License version 3 (GPLv3)] (https://github.com/myopencart/ocStore/blob/ocStore2/license.txt)
 
-## Посилання
+## Posilannya
 
-- [Сайт ocStore Україна] (http://ocstore.com.ua/)
-- [Сайт ocStore] (http://myopencart.com/)
-- [OpenCart форум] (https://opencartforum.com/)
-- [Документація] (http://docs.myopencart.com/)
-- [Facebook] (https://www.facebook.com/ocstore)
+- [Site ocStore Ukraine] (http://ocstore.com.ua/)
+- [Site ocStore] (http://myopencart.com/)
+- [OpenCart forum] (https://opencartforum.com/)
+- [Documentation] (http://docs.myopencart.com/)
+- [Facebook] (https://www.facebook.com/ocstore) 
+- 
