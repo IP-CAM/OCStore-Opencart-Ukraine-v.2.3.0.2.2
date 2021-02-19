@@ -32,7 +32,7 @@ As long as you have appeared as a supplementary food, be weasel, visit our [foru
 - If you want to talk about a serious threat of safety in the OpenCart code, be a weasel, send a private message to any moderators in the forum, or open the topic in the [Security Nutrition] section (https://opencartforum.com/forum -security /).
 - If you є like new ideas or please, speed up the news on the forum [Proposals and wishes] (https://opencartforum.com/forum/31-proposals-andwishes/).
 
-## Relizi
+## Releases
 
 To discard the news about new releases, administrator's remarks or about seeing the OC Team groups, please go to the [News and Announcements] forum (https://opencartforum.com/forum/3-news--- announcements/), and tell the right-handed on the button "Stay behind the forum".
 
