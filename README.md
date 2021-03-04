@@ -50,5 +50,4 @@ Be affectionate, read the above file (install.txt / upgrade.txt) in the middle o
 - [Site ocStore] (http://myopencart.com/)
 - [OpenCart forum] (https://opencartforum.com/)
 - [Documentation] (http://docs.myopencart.com/)
-- [Facebook] (https://www.facebook.com/ocstore) 
-- 
+- [Facebook] (https://www.facebook.com/ocstore)
