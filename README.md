@@ -1,6 +1,6 @@
 # ocStore Ukrainian version
 
-Tsey repository of features for the development of adapted pid Ukrainian market version of ocStore
+Repository of features for the development of adapted pid Ukrainian market version of ocStore
 In which everything is localized to the Ukrainian language and the release of the version will be dependent on the visit to the main page of the ocStore
 
 View of the central version of the budget in decilkoh options:
